@@ -26,6 +26,9 @@ USAGE
 
 and the total CPU Usage 
 
+REQUIRED PACKAGES 
+
+psutil, colorama
 
 
 ENJOYYYY and as always have a great day :D
